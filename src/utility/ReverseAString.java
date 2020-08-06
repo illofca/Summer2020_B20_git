@@ -17,5 +17,3 @@ public class ReverseAString {
         System.out.println(reverse);
     }
 }
-clear
-g
